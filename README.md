@@ -1,7 +1,7 @@
 # Limpieza de datos Plaza Vea
 Se me encargó reducir el número de categorías, subcategorías y grupos de una base de datos con productos de Plaza Vea. La base de datos no fue construida por mí, por lo que no la adjuntaré en este repositorio. Sin embargo, comentaré el proceso que seguí para cumplir con el encargo. \
 \
-La base original consistía en 182 subcategorías y casi 8 millones de observaciones. El resultado final fue una base con 78 subcategorías, eliminando solo dos observaciones redundantes.\
+La base original consistía en alrededor de 8 millones de entradas de productos de Plaza Vea, con variables como el nombre del producto, su categoría, subcategoría, grupo, descripción, precio de lista, precio online, y cuatro variables dummy para señalar si contaban con octógonos de grasas saturadas, azúcar y sodio. Eran 182 subcategorías y 21 categorías. El resultado final fue una base con 78 subcategorías y 9 categorías, eliminando solo dos observaciones redundantes.\
 \
 ![image](https://github.com/RodrigoCandelaApaza/Limpieza-de-datos-Plaza-Vea/assets/58021217/4d681518-5e1f-4786-a078-2e28a2dd5de3) \
 \
